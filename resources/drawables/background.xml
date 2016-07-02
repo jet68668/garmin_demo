@@ -1,0 +1,9 @@
+<drawable-list id="background" x="0" y="0" background="Gfx.COLOR_YELLOW"
+	foreground="Gfx.COLOR_RED">
+	<shape type="circle" x="107" y="90" radius="51" color="Gfx.COLOR_BLACK" />
+	<shape type="rectangle" x="0" y="90" width="fill" height="2"
+		color="Gfx.COLOR_WHITE" />
+	<shape type="circle" x="107" y="90" radius="50" color="Gfx.COLOR_WHITE" />
+	<!-- <shape type="circle" x="107" y="90" radius="5" color="Gfx.COLOR_RED" 
+		/> -->
+</drawable-list> 

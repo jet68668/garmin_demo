@@ -1,0 +1,7 @@
+<layout id="WatchFace">
+	<drawable class="Background" />
+	<drawable id="background" />
+	<drawable id="ticks" />
+	<label id="TimeLabel" x="center" y="center" font="Gfx.FONT_LARGE"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+</layout>

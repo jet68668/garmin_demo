@@ -1,0 +1,6 @@
+<drawable-list id="ticks" foreground="Gfx.COLOR_RED">
+	<shape type="rectangle" x="center" y="0" width="2" height="20" />
+	<shape type="rectangle" x="center" y="160" width="2" height="20" />
+	<shape type="rectangle" x="0" y="center" width="20" height="2" />
+	<shape type="rectangle" x="195" y="center" width="20" height="2" />
+</drawable-list>
